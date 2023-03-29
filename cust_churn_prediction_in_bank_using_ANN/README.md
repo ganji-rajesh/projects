@@ -2,7 +2,9 @@
 **Description of data:** <br>
 
 
-![image.png](attachment:016d39c3-90e6-445c-9e3d-63ce5be6b8dc.png) <br>
+ <br>
+![image](https://user-images.githubusercontent.com/99713423/228406602-c94ac977-aff2-4b09-b361-2f449f72384b.png) <br>
+
 
 **Learnings/Outcomes:** <br>
 
@@ -53,6 +55,8 @@ as it has better accuracy, better AUC, and better f1-score than other approaches
 <br>
 **Scop for improvement:**<br>
 *using Dropout layer approach for overfitting***
+
+
 
 
 

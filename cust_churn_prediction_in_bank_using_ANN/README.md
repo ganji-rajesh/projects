@@ -1,8 +1,24 @@
-**Object:**     Predict customer churn in a bank using Deep Learning(Artificial Neural Network)<br>
+**Object:**     Predict customer churn in a bank using Deep Learning(Artificial Neural Network)<br><br>
 **Description of data:** <br>
+| Column Name	 | Non Null count 	| Data type	| Description|
+|----------------|------------------|-----------|------------|
+|CustomerId	|10000	|int64	|custmer id of each cusomer|
+|Surname	|10000	|object	|same of customer|
+|CreditScore|	10000|	int64	|Credit score of each customer|
+|Geography	|10000	|object	|Country of each customer(France, Germany, Spain)|
+|Gender	|10000	|object	|Gender of customer eithter Male or Female|
+|Age	|10000	|int64	|Age of customer|
+|Tenure	|10000	|int64	|No of year spent by customer with bank|
+|Balance|	10000|	float64|	bank balance of each customer|
+|NumOfProducts|	10000	|int64	|No. of products availed by customer|
+|HasCrCard|	10000	|int64	|does customer has credit card ( 1 indicates "YES", 0 indicates "NO")|
+|IsActiveMember	|10000	|int64	|Present status of customer| 
+|EstimatedSalary	|10000	|float64	|Salary of customer|
+|Exited	|10000	|int64	|Wheather customer stayed with the bank or left the bank ( 0-> "NO", 1-> "YES")|
 
 
-![image.png](attachment:016d39c3-90e6-445c-9e3d-63ce5be6b8dc.png) <br>
+
+
 
 **Learnings/Outcomes:** <br>
 
@@ -53,6 +69,8 @@ as it has better accuracy, better AUC, and better f1-score than other approaches
 <br>
 **Scop for improvement:**<br>
 *using Dropout layer approach for overfitting***
+
+
 
 
 

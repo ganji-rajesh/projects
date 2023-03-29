@@ -1,0 +1,2 @@
+created 30+ queries to analyse employees(salary sturcture), divisions in a company
+created 4 views, which reduced time in accessing information by 50%
